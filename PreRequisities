@@ -1,0 +1,6 @@
+Step 1: Install MSMQ on your machine : Control Panel > Turn Windows Featues On/Off > MSMQ
+Step 2: Check if its installed : Go to My Computer > Right Click > Manage > And check there
+Step 3: Add Reference to System.Messaging dll
+Step 4: Before performing any action > Sending or reading messages, first check whether queue exists or not.
+
+
