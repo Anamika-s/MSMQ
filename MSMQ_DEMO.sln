@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSMQ_DEMO", "MSMQ_DEMO\MSMQ_DEMO.csproj", "{CBD259BB-1072-42B5-91D1-23210CBEA07E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sender", "Sender\Sender.csproj", "{74743C29-33FA-4460-A64B-5281DAED7B0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBD259BB-1072-42B5-91D1-23210CBEA07E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD259BB-1072-42B5-91D1-23210CBEA07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD259BB-1072-42B5-91D1-23210CBEA07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD259BB-1072-42B5-91D1-23210CBEA07E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74743C29-33FA-4460-A64B-5281DAED7B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74743C29-33FA-4460-A64B-5281DAED7B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74743C29-33FA-4460-A64B-5281DAED7B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74743C29-33FA-4460-A64B-5281DAED7B0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7703F176-48BB-4016-8BC6-D4D928EB0318}
+	EndGlobalSection
+EndGlobal
